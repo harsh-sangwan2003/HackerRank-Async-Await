@@ -26,7 +26,7 @@ npm install dependencies
 
 ## Usage
 
-The project is a Nodejs script that can be run from the command line.
+This project automates the code submission on HackerRank website.
 Type 
 
 ```js
